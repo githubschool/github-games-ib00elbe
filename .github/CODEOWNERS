@@ -1,0 +1,5 @@
+* @ericalloyd
+*.js @front-end-team
+docs/* @tech-doc-team
+/qa/ @testers
+*.md @allthedoll
